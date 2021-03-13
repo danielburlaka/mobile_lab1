@@ -23,7 +23,7 @@ public class HomeFragment extends Fragment {
 
         View root = inflater.inflate(R.layout.fragment_home, container, false);
         TextView text = root.findViewById(R.id.text_home);
-        text.setText("Какой-то текст");
+        text.setText("Бурлака Данило\nГруппа ІО-83\nЗК ІО-8303");
         return root;
     }
 
